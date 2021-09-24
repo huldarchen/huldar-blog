@@ -104,3 +104,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:huldarchen/huldarchen.github.io.git
+  branch: main
