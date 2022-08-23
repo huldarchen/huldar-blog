@@ -103,7 +103,7 @@ theme: aria
 deploy:
   type: 'git'
   repo: git@github.com:huldarchen/huldarchen.github.io.git
-  branch: master
+  branch: main
 
 # Hexo local search
 search:
